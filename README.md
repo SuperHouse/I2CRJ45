@@ -27,6 +27,10 @@ More information on the Light Switch Controller project:
 
   http://www.superhouse.tv/lsc
 
+The LSC also has its own GitHub repo which includes example firmware:
+
+  https://github.com/SuperHouse/LSC
+
 Purchase these breakouts pre-assembled:
 
   http://www.superhouse.tv/i2crj45
