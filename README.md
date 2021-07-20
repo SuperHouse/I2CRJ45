@@ -8,13 +8,6 @@ automation light switch controller project. They allow light switches
 to be connected to a controller such as an Arduino, Raspberry Pi,
 or ESP8266/ESP32 board.
 
-This system uses UTP cable (typically Cat-5e because it's cheap) to
-connect light switches to a central controller. The light switches
-can be either very simple buttons or switches mounted in wall plates,
-or smart switches with a microcontroller embedded.
-
-![Light Switch Controller prototype](Images/LSC-prototype.jpg)
-
 The RJ45 sockets on the breakout are connected to I/O channels via
 I2C addressable I/O buffers. Each RJ45 socket provides connections for
 GND, 12V, and 4 signal lines.
