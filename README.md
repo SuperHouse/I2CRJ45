@@ -48,6 +48,7 @@ CREDITS
 -------
 Designed by Jonathan Oxer jon@oxer.com.au
 
+Mechanical drawings by Aaron Knox
 
 DISTRIBUTION
 ------------
